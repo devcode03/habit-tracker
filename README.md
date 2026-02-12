@@ -1,4 +1,6 @@
-# React + Vite
+# Habit Tracker
+
+A React + Vite application for tracking daily habits.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
